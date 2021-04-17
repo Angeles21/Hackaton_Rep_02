@@ -9,14 +9,14 @@ de versiones específicas previas a su alteración.
 
 - Pueden haber conflictos con versiones anteriores (ex: dos archivos .html con el mismo nombre, y luego unidos en la 
   rama principal)
--Actualizar un proyecto conllevaría horas de acuerdo entre diversas parte 
- además de que entorpecería el flujo de trabajo.
 - No hay manera de tener control sobre qué partes del proyecto están disponibles para hacerse cambios, o cuales ya son 
   las definitivas.
 - Los cambios aplicados en un proyecto, al momento de trabajar con un equipo grande, no están catalogados ni tampoco
   se podrían analizar de manera competente. Sin mencionar que al momento de unir las piezas individuales podría existir
   la posibilidad de que se hayan repetido etiquetas o cambios. Sin un control sobre el proyecto cualquier usuario tendría
   el poder de borrar/reemplazar o sobre-escribir sobre algún punto vital.
+- Actualizar un proyecto conllevaría horas de acuerdo entre diversas parte 
+  además de que entorpecería el flujo de trabajo.
 
 ----
 
