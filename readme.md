@@ -25,7 +25,7 @@ de versiones específicas previas a su alteración.
 - Ayuda a mantener un récord/historial de acciones realizadas en un proyecto. 
 - Previene problemas de conflictos entre versiones.
 - El concepto y creación de ramas como elementos que permiten el flujo de trabajo en simultaneo para diferentes secciones.
-- Se pueden recuperar versiones anteriores, elementos como imágenes o estructuras de diseño.
+- Se pueden recuperar versiones anteriores, elementos como imágenes o estructuras de diseño.feature
 - Si es aplicado de manera eficiente, soporta todos los flujos de trabajo, independientemente del estilo de 
   trabajo de cada programador.
 - Cada miembro del equipo en el proyecto cuenta con una versión básica, la cual puede servir de back-up en el futuro.
